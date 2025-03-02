@@ -1,8 +1,13 @@
 # ArbiNet-AI
 ArbiNet AI is a next-generation AI-powered DeFi Smart Account designed to optimize liquidity management, automate yield farming, execute arbitrage, and protect assets in real-time. It leverages Safe Smart Accounts, AI-driven trading strategies, and multi-agent liquidity swarms to provide a fully autonomous and secure DeFi experience.
 
+![Screenshot 2025-02-27 092640](https://github.com/user-attachments/assets/2d8b92f8-2066-4f30-b3fe-ac2f5170b276)
+
+
 ## Overview
 This project introduces an AI-powered DeFi Smart Account with a **Multi-Agent Liquidity Swarm**, designed for **yield optimization, arbitrage, and treasury management** across multiple chains. It integrates **Safe Smart Accounts, AI agents, and flash loans** to enhance automated liquidity management.
+
+![Screenshot 2025-03-02 183022](https://github.com/user-attachments/assets/a852a5a6-a181-48df-8b3c-79ade587bd91)
 
 ### Features:
 - **Personalized Portfolio Management** – AI-driven DeFi portfolio strategies.
@@ -11,6 +16,13 @@ This project introduces an AI-powered DeFi Smart Account with a **Multi-Agent Li
 - **Cross-Chain Arbitrage** – Smart contract-enabled arbitrage across multiple chains.
 - **Automated Flash Loans** – Optimized yield execution using Aave and other protocols.
 - **Secure & Efficient Transactions** – Integrates HOT Wallet SDK and Chain Abstraction.
+
+![Screenshot 2025-03-02 212829](https://github.com/user-attachments/assets/c88b7f01-7369-409a-bedc-ab40f4303ae1)
+
+![Screenshot 2025-03-02 213050](https://github.com/user-attachments/assets/3f384a46-8a10-4ef2-9387-2f1e5e42a56f)
+
+![Screenshot 2025-03-02 213136](https://github.com/user-attachments/assets/d07dd422-94b8-40d3-aa0d-126c9c50c9fc)
+
 
 ## Tech Stack
 - **Smart Contracts**: Solidity, Hardhat, Safe Smart Accounts, Aurora/NEAR.
